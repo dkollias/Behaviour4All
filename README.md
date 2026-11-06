@@ -20,7 +20,7 @@ The framework is built around 3 principled components. Task-specific supervision
 
 ## Toolkit Overview 🖼️
 
-![Behaviour4All](docs/figures/Model.png)
+![Behaviour4All](docs/figures/toolkit1.png)
 
 ## Method at a Glance 🧠
 
