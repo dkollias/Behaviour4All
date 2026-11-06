@@ -18,9 +18,9 @@ Behaviour4All is a dependency-aware Multi-Task Leaning (MTL) framework and toolk
 
 The framework is built around 3 principled components. Task-specific supervision ensures strong individual performance for VA-E, EXP recognition and AUD. Cross-task dependency modelling encodes structured relations between VA, EXP, AUs via relational priors, enabling learning under heterogeneous and partially overlapping annotations while enforcing semantic consistency across tasks. Geometry modelling shapes the shared representation space so that compatible affective concepts are aligned and incompatible ones are separated, reducing representational conflict and improving cross-db generalisation.
 
-## Model Overview 🖼️
+## Toolkit Overview 🖼️
 
-![VEGA Model](docs/figures/Model.png)
+![Behaviour4All](docs/figures/Model.png)
 
 ## Method at a Glance 🧠
 
